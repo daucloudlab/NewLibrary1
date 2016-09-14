@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>kz.kaznitu.daulet.test</groupId>
+  <artifactId>dauke</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160914094633</lastUpdated>
+  </versioning>
+</metadata>
